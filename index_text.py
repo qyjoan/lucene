@@ -1,6 +1,8 @@
-
 # coding: utf-8
-
+"""
+    index_text.py explores simple Lucene index functionality
+    using the gutenberg corpus that comes with NLTK package
+"""
 # In[3]:
 
 import lucene
