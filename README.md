@@ -1,8 +1,6 @@
-Exploring pylucene with gutenberg corpus.
-
 PyLucene Installation
 
-Installing pylucene needs some patience. 
+    Installing pylucene needs some patience, but you will get it...eventually.
 
 My installation is on OS X Yosemite Version 10.10.2.
 
@@ -62,4 +60,3 @@ Check list:
 
     Once JCC is successfully built, the rest should be straightforward by following pylucene
     official installation link listed above.
-
